@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Queens Majesties declaration and desires to the states of Holland June, 18. 1642. With M. Pyms resolution concerning the Earl of Liecester [sic]. As it was reported to the Honourable House of Commons, Iune 23. MDCXLII. Wherein is declared Her Majesties reall intentions and resolutions concerning His Royall Majesty, and the high court of Parliament. With Her Maiesties message and propositions to the states of Holland, concerning the Kings levying of forces, and the names of those lords which are to come for England, with a message from the states to the King and Parliament. Also the states gracious answer to Her Majesties message. Likewise severall propositions from the Commissioners of Scotland, to the High Court of Parliament. Ordered that this be printed and published. John Brown Cler. Parl.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91586</idno><idno type="EEBO-CITATION">99864780</idno>
+  <idno type="VID">117012</idno>
+  <idno type="EEBO-PROQUEST">2248538745</idno>
+  
+            <idno type="STC">Wing Q157F</idno>
+            <idno type="STC">Thomason E153_16</idno>
+            <idno type="STC">ESTC R20538</idno>
+            <idno type="PROQUEST">99864780</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864780e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117012)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E153[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Queens Majesties declaration and desires to the states of Holland June, 18. 1642. With M. Pyms resolution concerning the Earl of Liecester [sic]. As it was reported to the Honourable House of Commons, Iune 23. MDCXLII. Wherein is declared Her Majesties reall intentions and resolutions concerning His Royall Majesty, and the high court of Parliament. With Her Maiesties message and propositions to the states of Holland, concerning the Kings levying of forces, and the names of those lords which are to come for England, with a message from the states to the King and Parliament. Also the states gracious answer to Her Majesties message. Likewise severall propositions from the Commissioners of Scotland, to the High Court of Parliament. Ordered that this be printed and published. John Brown Cler. Parl.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>June 30. Printed for J. Tompson, and A. Coe,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A propaganda and news pamphlet containing only brief summaries of texts mentioned in the title.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669 --  Early works to 1800.</term>
+               <term type="personal_name">Pym, John, 1584-1643 --  Early works to 1800.</term>
+               <term type="corporate_name">Netherlands. --  Staten-Generaal --  Early works to 1800.</term>
+               <term type="corporate_name">Scotland. --  Parliament. --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117012:1"/>
+            <p>THE QVEENS MAJESTIES DECLARATION AND DESIRES TO The States of HOLLAND <hi>JUNE,</hi> 18. 1642. <hi>With M. Pyms Resolution concerning the Earl of Liecester.</hi>
+            </p>
+            <p>
+               <hi>As it was reported to the Honourable House of</hi> Com<g ref="char:EOLhyphen"/>mons, <hi>Iune</hi> 23. MDCXLII.</p>
+            <p>Wherein is Declared Her Majesties reall Intenti<g ref="char:EOLhyphen"/>ons and Resolutions concerning His Royall Majesty, and the High Court of PARLIAMENT.</p>
+            <p>With Her <hi>Maiesties</hi> Message and Propositions to the States of HOLLAND, concerning the Kings levying of Forces, and the Names of those Lords which are to come for ENGLAND, with a Message from the States to the King and Parliament.</p>
+            <p>Also the States gracious Answer to Her Majesties Message.</p>
+            <p>Likewise severall Propositions from the <hi>Commis<g ref="char:EOLhyphen"/>sioners of Scotland,</hi> to the High Court of <hi>Parliament.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>Ordered that this be printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Brown Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>J<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 30. Printed for J. TOMPSON, and A. COE, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:117012:2"/>
+            <pb facs="tcp:117012:2"/>
+            <head>
+               <hi>The Queenes Maiesties Declaration to the Stats of</hi> Holland, <hi>June</hi> 20.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S the Faces of all <hi>Brit<g ref="char:EOLhyphen"/>tain shew their hearts and in<g ref="char:EOLhyphen"/>clinations, so if their hearts were glazed with a Chri<g ref="char:EOLhyphen"/>stall,</hi> they would ap<g ref="char:EOLhyphen"/>pear fearfull of the future were not the Representative Body of the State carefull to cure the present malady, purge the distempered humour, and save the much gangred body, by cut<g ref="char:EOLhyphen"/>ting some rotten and putrifide members of which infect, insest, and invade the Republique, those are the greatest In<g ref="char:EOLhyphen"/>cendiaries
+<pb facs="tcp:117012:3"/>which now lye lurking a<g ref="char:EOLhyphen"/>bout about this Kingdom, who adhere and joyn with the malignant party, and those are the greatest part of our Distra<g ref="char:EOLhyphen"/>ctions and Ruines, they being the grea<g ref="char:EOLhyphen"/>test cause of all our Distempers at this present.</p>
+            <p>Which Times are like to prove very dangerous to the <hi>Common-wealth,</hi> unlesse God of his infinite mercy be pleased to prevent their Damnable Designs.</p>
+            <p>For it is reported, that the Malignant party which are about His Majesty, doth now begin to assemble in great Multi<g ref="char:EOLhyphen"/>tudes, striking Terrour and fear into the hearts of His Majesties loving Subjects; especially, about the Countries adjoy<g ref="char:EOLhyphen"/>ning to <hi>Yorkshire.</hi>
+            </p>
+            <p>For it is divulved openly, that some of the Lords doth now begin to seize upon Towns in the North parts, but God grant that this Keport may prove false, and that we may not live to see such dreadfull Times as those, to have Dissentions and Civill Wars amongst
+<pb facs="tcp:117012:3"/>our selves; For we may see the begin<g ref="char:EOLhyphen"/>ning, but God knowes who shall live to see the ending.</p>
+            <p>In <hi>Richard</hi> the 3. time, when the Civill Warres began to encrease in this King<g ref="char:EOLhyphen"/>dome, there was many a great and bloo<g ref="char:EOLhyphen"/>dy battle fought in this Iland, thousands of men being slain therein; even so may it prove now, unlesse God of his great mercy prevent it.</p>
+            <p>These Rumours hath beene divulged through many Nations, which hath bin a great encouragement both to our For<g ref="char:EOLhyphen"/>reign and home-bred Enemies.</p>
+            <p>These sad and wofull Distractions our most gracious Queen took into consi<g ref="char:EOLhyphen"/>deration, daily heating of the Discensi<g ref="char:EOLhyphen"/>ons which were betwixt His Sacred Ma<g ref="char:EOLhyphen"/>jesty, and his Great Councell the High Court of <hi>Parliament,</hi> which caused great Discontent to arise in her Royall Brest, and considering seriously with her Selfe shee thought it meet and expedient to make her Desires known to the States, and to propound these Propositions un<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:117012:4"/>them, declaring Her Resolution con<g ref="char:EOLhyphen"/>cerning the <hi>Parliament of England.</hi>
+            </p>
+            <p>
+               <hi>On Wednesday the</hi> 22. <hi>of this month, there was a Report made to the House of Commons, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>een took Order, That the States of <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> should meet together, and desired them to use what means they could to mediate be<g ref="char:EOLhyphen"/>tween the King of England, and His Great Councell the Honourable Court of Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>The States hearing of Her Majesties Desires, gave their assents therto, and ap<g ref="char:EOLhyphen"/>pointed the time to have a generall mee<g ref="char:EOLhyphen"/>ting, where being met, they sate a great while in debate, and could not agree, re<g ref="char:EOLhyphen"/>turning an Answer to Her Majesty that they were loath to intermeddle with the affairs of another State.</p>
+            <p>Her Majesty receiving this Answer she earnestly desired to speak with some of them, and sent a Message to them, de<g ref="char:EOLhyphen"/>siring them that they would be pleased to grant to the aforesaid Propositions, wherin she declared her Desires, intrea<g ref="char:EOLhyphen"/>ting
+<pb facs="tcp:117012:4"/>them to give their Consents to her Requests.</p>
+            <p>The States hearing how importunant Her Majesty was for the performance of Her Demands, they most graciously gave their Consents to what she desired, and ahpointed that the young Prince of <hi>O<g ref="char:EOLhyphen"/>range,</hi> Duke <hi>Robert,</hi> and <hi>Gustavus Horn,</hi> should immediatly be dispatched for <hi>Eng<g ref="char:EOLhyphen"/>land</hi> with a Message to the King and Par<g ref="char:EOLhyphen"/>liament, to use means to joyn the King and Parliament in Unity and Concord together.</p>
+            <p>Which God grant they may, That so this Kingdom may flourish in its purity of Religion, the Laws of this Realm be Established, and Enacted both by King and Parliament; the Which being assen<g ref="char:EOLhyphen"/>ted to and performed, His Majesty will be setled in His Royall Dignity, and his Crown so fastned upon His head, that all forreign Powers hereafter cannot remove it.</p>
+            <p>Both Houses received Letters from <hi>Holland,</hi> that divers ships were going to<g ref="char:EOLhyphen"/>wards
+<pb facs="tcp:117012:5"/>the North, but they were resisted and kept from going by the English Na<g ref="char:EOLhyphen"/>vie.</p>
+            <p>The Lords declared at a Conference, that it was very requisite the Earl of Liecester should go into <hi>Ireland,</hi> to which <hi>M. Pym</hi> made answer, that the Earl of Liecester was very willing to go, but that many weighty and just occasions hindered him.</p>
+            <p>
+               <hi>There came divers Propositions from the Commissioners of Scotland, concerning the mo<g ref="char:EOLhyphen"/>neys which they had formerly laid out.</hi>
+            </p>
+            <p>Desiring that His Majesty would be pleased to assent to the Ordinance of both Houses, agreed on by them, &amp;c.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Ordered by the Honourable House of Commons, That this shall be printed and published through the whole <hi>Kingdome,</hi> by the Consent of the High Court of <hi>Parliament.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Joh. Brown Cler. Parl.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hen. Elsing Cler. Parl. D. Com</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117012:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
